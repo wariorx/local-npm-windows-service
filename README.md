@@ -4,6 +4,7 @@ C# code for creating a Windows Service with local-npm
 
 # Dependencies:
   local-npm
+  
   nodejs
 
 # Usage
